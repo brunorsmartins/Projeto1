@@ -1,0 +1,15 @@
+/home/bruno/Desktop/VSCode/C#/Projeto1/obj/Debug/net6.0/Projeto1.csproj.AssemblyReference.cache
+/home/bruno/Desktop/VSCode/C#/Projeto1/obj/Debug/net6.0/Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/Desktop/VSCode/C#/Projeto1/obj/Debug/net6.0/Projeto1.AssemblyInfoInputs.cache
+/home/bruno/Desktop/VSCode/C#/Projeto1/obj/Debug/net6.0/Projeto1.AssemblyInfo.cs
+/home/bruno/Desktop/VSCode/C#/Projeto1/obj/Debug/net6.0/Projeto1.csproj.CoreCompileInputs.cache
+/home/bruno/Desktop/VSCode/C#/Projeto1/bin/Debug/net6.0/Projeto1
+/home/bruno/Desktop/VSCode/C#/Projeto1/bin/Debug/net6.0/Projeto1.deps.json
+/home/bruno/Desktop/VSCode/C#/Projeto1/bin/Debug/net6.0/Projeto1.runtimeconfig.json
+/home/bruno/Desktop/VSCode/C#/Projeto1/bin/Debug/net6.0/Projeto1.dll
+/home/bruno/Desktop/VSCode/C#/Projeto1/bin/Debug/net6.0/Projeto1.pdb
+/home/bruno/Desktop/VSCode/C#/Projeto1/obj/Debug/net6.0/Projeto1.dll
+/home/bruno/Desktop/VSCode/C#/Projeto1/obj/Debug/net6.0/refint/Projeto1.dll
+/home/bruno/Desktop/VSCode/C#/Projeto1/obj/Debug/net6.0/Projeto1.pdb
+/home/bruno/Desktop/VSCode/C#/Projeto1/obj/Debug/net6.0/Projeto1.genruntimeconfig.cache
+/home/bruno/Desktop/VSCode/C#/Projeto1/obj/Debug/net6.0/ref/Projeto1.dll
