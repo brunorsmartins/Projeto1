@@ -63,11 +63,6 @@ while (rodando = true){
 
         break;
 
-        case 4:
-            Console.WriteLine("DDD");
-            pf.cpf = Console.ReadLine();
-            Console.WriteLine("asdsa" + pf.cpf);
-        break;
 
         default:
         Console.WriteLine("Selecione uma opção válida.");
