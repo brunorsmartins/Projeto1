@@ -19,7 +19,7 @@ while (rodando = true){
             pf.cpf = Console.ReadLine();
             Console.WriteLine("Digite sua idade");
             pf.idade = Int32.Parse(Console.ReadLine());
-            bool vpf = true;
+            bool vpf = true; // Verififica se o usuário inseriu informações de PF para futura exibição
         break;
 
         case 2:
@@ -35,7 +35,7 @@ while (rodando = true){
         break;
 
         case 3:
-        
+            Console.WriteLine("asdas" + pf.cpf);
 
 
         break;
